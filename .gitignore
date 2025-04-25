@@ -1,2 +1,10 @@
 dataset/
 data/
+data/
+env/
+*.npz
+*.h5
+*.csv
+*.png
+*.pkl
+profiles.py
